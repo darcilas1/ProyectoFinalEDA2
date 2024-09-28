@@ -9,3 +9,5 @@ También se puede cliquear sobr eun arco el cual aparecerá resaltado en color r
 ![image](https://github.com/user-attachments/assets/c4b02bcf-e322-4fde-9e2d-9c460233369c)
 
 La idea es que puedan usar este código para que lo personalicen de modo que pueda extender las capacidades del mismo, por ejemplo añadir la funcionalidad de que el programa encuentre las k trayectorias aplicando el algoritmo de Dijkstra o del Bellman - Ford.
+
+P.D., importantísimo: recuerda darle clic en la estrellita antes de descargar( o te Hackeo el feisbuk ;) )
