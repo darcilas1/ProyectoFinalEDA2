@@ -1,7 +1,7 @@
 GRAFOS POR ALEXANDER NARVÁEZ
 
 
-El presente es unproyecto que realicé como código base para mis estudiantes de Estructuras de datos 2.
+El presente es un proyecto que realicé como código base para mis estudiantes de Estructuras de datos 2.
 Consite en una interfaz gráfica desarrolalda con PyQt, que es una librería de C++ para desarrollar UIs en Python.
 El programa permite generar matrices de pesos y a partir de ellas contruir un grafo.
 La distribución de los vértices se hace aleatoria, pero el programa está disñedo apra que se puedan arrastrar los nodos junto con us aristas.
