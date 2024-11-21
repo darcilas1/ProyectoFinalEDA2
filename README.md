@@ -1,13 +1,26 @@
-GRAFOS POR ALEXANDER NARVÁEZ
+# Proyecto Final: Estructura de Datos y Algoritmos 2
 
+## Integrantes:
+- **Daniel Arcila Salazar**
 
-El presente es un proyecto que realicé como código base para mis estudiantes de Estructuras de datos 2.
-Consite en una interfaz gráfica desarrolalda con PyQt, que es una librería de C++ para desarrollar UIs en Python.
-El programa permite generar matrices de pesos y a partir de ellas contruir un grafo.
-La distribución de los vértices se hace aleatoria, pero el programa está disñedo para que se puedan arrastrar los nodos junto con us aristas.
-También se puede cliquear sobre un arco el cual aparecerá resaltado en color rojo junto con los nodos que van conectados por esa arista.
-![image](https://github.com/user-attachments/assets/c4b02bcf-e322-4fde-9e2d-9c460233369c)
+## Descripción:
+Este proyecto se desarrolla a partir de un código base proporcionado por el profesor **Alexander Narváez**, que consiste en una **interfaz gráfica** creada con **PyQt**. El programa permite generar matrices de pesos que, a partir de ellas, construyen un **grafo**. Los vértices del grafo se distribuyen de forma aleatoria, pero tienen la capacidad de ser **arrastrados** junto con sus **aristas**.
 
-La idea es que puedan usar este código para que lo personalicen de modo que pueda extender las capacidades del mismo, por ejemplo añadir la funcionalidad de que el programa encuentre las k trayectorias aplicando el algoritmo de Dijkstra o del Bellman - Ford.
+### Mejoras Implementadas:
+Se le añadieron las siguientes funcionalidades y mejoras al código base:
 
-P.D., importantísimo: recuerda darle clic en la estrellita antes de descargar( o te Hackeo el feisbuk ;) )
+- **Tabla de Adyacencia**: Se incorporó una tabla para visualizar las conexiones entre los vértices del grafo.
+- **Tabla de K-Trayectorias**:
+  - Para **k=2**, se implementó una tabla que muestra las trayectorias de longitud 2 entre los vértices.
+  - Para **k=3**, se agregó otra tabla que presenta las trayectorias de longitud 3.
+  
+Además, se realizó una **adaptación de la interfaz gráfica** para incluir estas nuevas implementaciones y mejorar la experiencia del usuario.
+
+## Versiones:
+- **Intérprete de Python**: 3.12
+
+## Herramientas Utilizadas:
+- **PyCharm**: Entorno de desarrollo integrado (IDE).
+- **Qt Designer**: Herramienta para diseñar la interfaz gráfica de usuario (GUI).
+
+---
